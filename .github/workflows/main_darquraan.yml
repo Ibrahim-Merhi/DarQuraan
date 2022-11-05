@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DarQuraan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E46266EDBD3547F083AD2424DAFCCF08 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A78128135284D178CCAC75AC18EB201 }}
           package: .
